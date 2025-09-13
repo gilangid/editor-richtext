@@ -111,3 +111,13 @@ export const arrowDownTrayIcon = `<svg xmlns="http://www.w3.org/2000/svg" viewBo
 export const codeBracketIcon = `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
 </svg>`;
+
+export const photoIcon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+  <path fill-rule="evenodd" d="M1 8.75C1 7.784 1.784 7 2.75 7h14.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0117.25 20H2.75A1.75 1.75 0 011 18.25v-9.5zM17.25 8.5H2.75a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h14.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25zM10 11a2 2 0 100 4 2 2 0 000-4zM5.75 3.5a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5zM14.25 3.5a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5zM10 10a.5.5 0 00-.5.5v.5a.5.5 0 001 0v-.5a.5.5 0 00-.5-.5z" clip-rule="evenodd" />
+</svg>`;
+
+export const videoCameraIcon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+  <path d="M15.75 10.5l4.72-4.72a.75.75 0 011.28.53v11.38a.75.75 0 01-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 002.25-2.25v-9a2.25 2.25 0 00-2.25-2.25h-9A2.25 2.25 0 002.25 7.5v9a2.25 2.25 0 002.25 2.25z" />
+</svg>`;
+
+export const anchorIcon = linkIcon;
